@@ -14,7 +14,6 @@ class check{
             for(int i=2;i<a;i++){
                 if(a % i == 0){
                     System.out.println("the number is not a prime number");
-                    break;
                 }else{
                     System.out.println("prime number");
                     break;
