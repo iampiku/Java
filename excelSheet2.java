@@ -1,5 +1,5 @@
 
-// GeekForGeeks porblem (String)
+// GeekForGeeks problem (String)
 // Given a string S that represents column title of an Excel sheet, find the number that represents that column. In excel A column is number 1, AA is 27 and so on.
 import java.util.Scanner;
 
